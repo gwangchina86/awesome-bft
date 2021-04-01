@@ -80,9 +80,12 @@
 | 2019 | N/A                                 | FBFT           | Flexible Byzantine Fault Tolerance                                                        | 
 | 2019 | PODC                                | HotStuff       | HotStuff: BFT Consensus with Linearity and Responsiveness                                 | 
 | 2021 | N/A                                 | Mir-BFT        | Mir-BFT: High-Throughput Robust BFT for Decentralized Networks                            |
-| 2020 | CCS                                 | N/A            |On the Optimality of Optimistic Responsiveness                                             |
-| 2020 | SoCC                                | Gosig          |Gosig: A Scalable and High-Performance Byzantine Consensus for Consortium Blockchains      |
+| 2020 | CCS                                 | N/A            | On the Optimality of Optimistic Responsiveness                                            |
+| 2020 | SoCC                                | Gosig          | Gosig: A Scalable and High-Performance Byzantine Consensus for Consortium Blockchains     |
 | 2020 | SDRS                                | N/A            | Consensus Beyond Thresholds:Generalized Byzantine Quorums Made Live                       |
-| 2021 | N/A                                 | SFT            |Strengthened Fault Tolerance in Byzantine Fault Tolerant Replication                       |
-| 2021 | N/A                                 | N/A            |FnF-BFT: Exploring Performance Limits of BFT Protocols                                     |
-| 2021 | N/A                                 | N/A            |Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains                              |
+| 2021 | N/A                                 | SFT            | Strengthened Fault Tolerance in Byzantine Fault Tolerant Replication                      |
+| 2021 | N/A                                 | N/A            | FnF-BFT: Exploring Performance Limits of BFT Protocols                                    |
+| 2021 | N/A                                 | N/A            | Fast-HotStuff: A Fast and Robust BFT Protocol for Blockchains                             |
+| 2020 | AFT                                 | FastPay        | FastPay: High-Performance Byzantine Fault Tolerant Settlement                             |
+| 2020 | N/A                                 | Twins          | Twins: White-Glove Approach for BFT Testing                                               |
+|
