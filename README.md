@@ -79,3 +79,4 @@
 | 2019 | N/A                                 | SBFT           | SBFT: a Scalable and Decentralized Trust Infrastructure                                   | 
 | 2019 | N/A                                 | FBFT           | Flexible Byzantine Fault Tolerance                                                        | 
 | 2019 | PODC                                | HotStuff       | HotStuff: BFT Consensus with Linearity and Responsiveness                                 | 
+|2021  | N/A                                 |Mir-BFT         |Mir-BFT: High-Throughput Robust BFT for Decentralized Networks                             |
